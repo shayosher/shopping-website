@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+.mainLists{
+  border: 2px solid green;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 5%;
+}
+.innerLists{
+
+}
+/* 
+#houseButton {
+  background-image: url('./house.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 8%;
+}
+
+#cartButton {
+  background-image: url('./cart.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 8%;
+}
+
+#cartimg {
+  background-image: url('./cart.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 50px;
+} */
+
